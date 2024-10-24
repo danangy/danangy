@@ -14,7 +14,7 @@
 💻 **Skills**:
 - Web Development (Node.js, React.js, Laravel, HTML, JavaScript)
 - Creative problem-solving in packaging solutions
-- Yu can see me on https://portfolio-danangy.vercel.app/
+- You can see me on https://portfolio-danangy.vercel.app/
 
 🚀 I’m always looking for new challenges, especially in the fields of web development & App Development.
 
